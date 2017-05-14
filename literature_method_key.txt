@@ -1,0 +1,22 @@
+When you buy something on the Internet,
+or conduct banking transactions
+on a financial website, encryption
+is very much involved. At least, it had better be.
+You can see whether you are using
+secure encrypted communications
+within your browser, typically by the
+presence of a padlock icon
+in the URL bar and in the very first
+part of the websites address.
+the quick brown fox jumps over the
+lazy dog. stop what you are doing
+When encryption was initially used
+for online, browser-based transactions,
+it used the SSL (Secure Sockets Layer) protocol.
+These days, that technology has
+largely been replaced by the
+Transport Layer Security (TLS) protocol,
+which is regarded as more secure.
+TLS uses a combination of asymmetric
+and symmetric key methods, as did SSL
+before it, to complete an e-commerce transaction.

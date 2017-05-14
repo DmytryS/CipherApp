@@ -1,0 +1,16 @@
+/yii
+/vendor
+
+.idea/inspectionProfiles/
+vendor/codeception/base/tests/data/claypit/tests/_output/
+vendor/codeception/base/tests/data/included/_log/
+vendor/codeception/base/tests/data/included/jazz/pianist/tests/_helpers/_generated/
+vendor/codeception/base/tests/data/included/jazz/pianist/tests/_log/
+vendor/codeception/base/tests/data/included/jazz/tests/_log/
+vendor/codeception/base/tests/data/included/shire/tests/_log/
+vendor/codeception/base/tests/data/included_w/src/bar/Sub/EwokPack/tests/_support/_generated/
+vendor/codeception/base/tests/data/included_w/src/bar/ToastPack/tests/_support/_generated/
+vendor/codeception/base/tests/data/included_w/src/foo/AcmePack/tests/_log/
+vendor/codeception/base/tests/data/included_w/src/foo/AcmePack/tests/_support/_generated/
+vendor/ezyang/htmlpurifier/plugins/phorum/htmlpurifier/
+vendor/yiisoft/yii2/console/runtime/
