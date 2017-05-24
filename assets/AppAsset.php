@@ -26,7 +26,8 @@ class AppAsset extends AssetBundle
         'js/form-validation.js',
         'js/FileSaver.min.js',
         'js/crypt_check.js',
-        'js/jsrsa.js'
+        'js/jsrsa.js',
+        'js/spin.min.js'
 
     ];
     public $depends = [

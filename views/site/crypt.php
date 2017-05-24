@@ -73,6 +73,6 @@ AppAsset::register($this);
             <?= $f->field($form, 'crypt_methods')->dropDownList($crypt_methods,['id' => 'crypt_methods'])  ?>
             <?= $f->field($form, 'set_offset_by')->dropDownList($set_offset_by,['id' => 'set_offset_by'])  ?>
 
-
+<div class="modal" id="animation"><!-- Place at bottom of page --></div>
         <?php ActiveForm::end(); ?>
 

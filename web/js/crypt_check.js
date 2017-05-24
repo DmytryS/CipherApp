@@ -195,6 +195,12 @@ $(".change-key-size").each(function (index, value) {
 
 
 var generateKeys = function () {
+
+    $('#animation').modal('show');
+    var spinner = new Spinner().spin();
+    document.getElementById('animation').appendChild(spinner.el);
+
+
         var sKeySize = $('#key-size').attr('data-value');
         var keySize = parseInt(sKeySize);
         var crypt = new JSEncrypt({default_key_size: keySize});
@@ -236,6 +242,7 @@ var generateKeys = function () {
         type: "text/plain;charset=utf-8"
     });
     saveAs(blob, filename);
+    $('#animation').modal('hide');
 };
 
 // If they wish to generate new keys.
